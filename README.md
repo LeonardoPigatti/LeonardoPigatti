@@ -1,11 +1,7 @@
 # Welcome! I am available to help. I am Leonardo Pigatti
 
 🔭 Today I work as a Full-Stack Developer at Yeb Marketing Sourcing | Yeb Market Intelligence <br>
-🌱 am currently a Computer Engineering student at FHO | Fundação Hermínio Ometto.
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LeonardoPigatti\&show_icons=true\&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LeonardoPigatti\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+🌱 I am currently a Computer Engineering student at FHO | Fundação Hermínio Ometto.
 
 ##
 
