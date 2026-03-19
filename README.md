@@ -1,33 +1,105 @@
-# Welcome! I am available to help. I am Leonardo Pigatti
+# 👋 Hello, I'm Leonardo Pigatti
 
-🔭 Today I work as a Full-Stack Developer at Yeb Marketing Sourcing | Yeb Market Intelligence <br>
-🌱 I am currently a Computer Engineering student at FHO | Fundação Hermínio Ometto.
+💻 Full-Stack Developer | Vue.js • React • Node.js • TypeScript • GraphQL <br>
+🚀 Building scalable products with real business impact <br>
+📍 Rio Claro - SP, Brazil
 
-##
+![Profile views](https://komarev.com/ghpvc/?username=LeonardoPigatti\&color=blue)
 
-<h3>Main Technologies I Work With</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-</div>
+---
 
-##
+## 🧠 About Me
+
+I'm a Full-Stack Developer with **4+ years of experience** building scalable and high-performance applications.
+
+I specialize in modern web technologies like **Vue.js, React, Node.js, TypeScript, and GraphQL**, working across the entire development lifecycle — from architecture to delivery.
+
+💼 Currently working on enterprise-level solutions, delivering products used by companies like **Raízen** and **Cerradinho Bioenergia**.
+
+⚡ Strong ability to bridge the gap between **business needs and technical solutions**, collaborating closely with Product and Engineering teams.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Front-end
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge\&logo=vue.js)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge\&logo=javascript)
+
+### ⚙️ Back-end
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge\&logo=graphql)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge\&logo=php)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+
+### ☁️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoPigatti\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPigatti\&layout=compact\&theme=radical)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Cotagri Platform (B2B)**
+
+* Full-stack development (Vue + Node + GraphQL)
+* Enterprise clients integration
+* Scalable architecture
+
+🔹 **API Ecosystem**
+
+* GraphQL + REST APIs
+* High-performance queries
+* Data integration across services
+
+🔹 **Testing Automation**
+
+* Jest, Vitest, Cypress, Playwright
+* End-to-end validation pipelines
+
+---
+
+## 📈 Impact & Highlights
+
+✔️ Delivered enterprise solutions used by large companies <br>
+✔️ Improved application performance and scalability <br>
+✔️ Reduced production bugs through automated testing <br>
+✔️ Strong collaboration with Product & UX teams <br>
+
+---
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<div> 
-  <a href="https://www.youtube.com/@yebinteligenciademercado7220" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/leonardopigatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardopigatti@alunos.fho.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-pigatti-6bb369206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>     
+
+## 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/leonardo-pigatti-6bb369206)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge\&logo=instagram)](https://instagram.com/leonardopigatti)
+
+📧 Email: [leonardopigatti@yahoo.com.br](mailto:leonardopigatti@yahoo.com.br)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex business problems into simple and scalable technical solutions 🚀
