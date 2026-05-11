@@ -42,7 +42,7 @@ My engineering philosophy centers on **clean architecture, observable systems, a
 
 <br>
 
-## `✦ Stack`
+## `✦ stack`
 
 <br>
 
@@ -100,7 +100,9 @@ My engineering philosophy centers on **clean architecture, observable systems, a
 </tr>
 </table>
 
-<br>
+<table border="1" bordercolor="2d1060" cellspacing="0" cellpadding="16" width="100%">
+<tr>
+<td valign="top">
 
 **Testes & Qualidade**
 
@@ -113,13 +115,17 @@ My engineering philosophy centers on **clean architecture, observable systems, a
 ![Postman](https://img.shields.io/badge/Postman-1e0a3c?style=flat-square&logo=postman&logoColor=a78bfa)
 ![Newman](https://img.shields.io/badge/Newman-1e0a3c?style=flat-square&logoColor=a78bfa)
 
+</td>
+</tr>
+</table>
+
 <br>
 
 ---
 
 <br>
 
-## `✦ Experience`
+## `✦ experience`
 
 <br>
 
@@ -143,7 +149,7 @@ Enterprise clients: **Raízen &nbsp;·&nbsp; Cerradinho Bioenergia**
 
 <br>
 
-## `✦ Stats`
+## `✦ stats`
 
 <br>
 
